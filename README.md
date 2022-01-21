@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Thomas Freund
+
+- 🔭 I’m currently working on a video game called World llamanation
+- 🌱 I’m always learning and sharing 
+- 💬Some articles I have written: https://medium.com/@tfreundp
+- ⚡Youtube channel (interviews with some developers): https://bit.ly/3rCGsoc
+- 📫 How to reach me:  A00831997@itesm.mx / @tfreundp inta
+
 
 <!--
 **themanfred/themanfred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

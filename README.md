@@ -1,10 +1,11 @@
 ### Hi there 👋, I'm Thomas Freund
 
 
-- 🌱 I’m always learning and sharing 
+- 🌱 I’m always learning and sharing
+- 📫 Personal website: www.thomasfreund.com
 - 💬Some articles I have written: https://medium.com/@tfreundp
 - ⚡Youtube channel (interviews with some developers): https://bit.ly/3rCGsoc
-- 📫 How to reach me:  A00831997@itesm.mx / @tfreundp IG
+- 📫 How to reach me:  tfreundc@gmail.com / @curlycatch IG
 
 
 <!--
